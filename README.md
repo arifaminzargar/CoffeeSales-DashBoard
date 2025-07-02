@@ -1,4 +1,4 @@
-### “Coffee Sales Dashboard (2019–2022)”
+#### “Coffee Sales Dashboard (2019–2022)”
 
 🚀 Just wrapped up an exciting Coffee Sales Dashboard project in Excel! ☕📊
 
