@@ -1,11 +1,11 @@
-#### “Coffee Sales Dashboard (2019–2022)”
+# “Coffee Sales Dashboard (2019–2022)”
 
-🚀 Just wrapped up an exciting Coffee Sales Dashboard project in Excel! ☕📊
+##🚀 Just wrapped up an exciting Coffee Sales Dashboard project in Excel! ☕📊
 
 Here’s how I turned raw sales data into actionable insights using data cleaning, enrichment, and visualization techniques:
 
 
-✅ Data Formatting, Cleaning & Analysis Summary
+## ✅ Data Formatting, Cleaning & Analysis Summary
 🔧 Data Cleaning & Formatting
 
 Formatted the Order Date column as dd-mmm-yyyy (e.g., 05-Sep-2019) for better readability.
@@ -20,7 +20,7 @@ Size column formatted with a kg suffix (e.g., 1.0 kg).
 
 Unit Price and Sales columns formatted with a $ symbol (e.g., $12.95).
 
-🔗 Data Enrichment Using Formulas
+## 🔗 Data Enrichment Using Formulas
 
 Used XLOOKUP in the orders table to fetch:
 
@@ -42,7 +42,7 @@ Size
 Unit Price
 based on Product ID from the products sheet.
 
-📊 Data Analysis Enhancements
+## 📊 Data Analysis Enhancements
 
 
 Added 4 slicers for interactive analysis:
@@ -72,7 +72,7 @@ Customer Loyalty Sales Card
 Quantity sold by size
 
 
-Chart-specific insights and real-world business recommendations:
+## Chart-specific insights and real-world business recommendations:
 
 🔹 1. Top 5 Customers (Bar Chart - Horizontal)
 Chart Insight:
@@ -172,7 +172,7 @@ Use average sale value to set personalized upsell targets in email campaigns.
 
 Aim to increase average sales per customer by 10–15% via bundling or upselling.
 
-✅ Overall Business Recommendations:
+## ✅ Overall Business Recommendations:
 Area	Recommendation
 Loyalty Program	Improve benefits and communication to encourage higher adoption.
 Product Strategy	Focus marketing on Excelsa & Liberica; revive Robusta via bundles or deals.
