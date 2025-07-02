@@ -183,4 +183,4 @@ Size Promotions	Push sales for 2.5 kg via value packs or family-size offers.
 
 
 
-#ExcelDashboard #DataAnalytics #CoffeeSales #PowerOfXLOOKUP #INDEXMATCH #ExcelTips #BusinessIntelligence #DataStorytelling #LinkedInProjects
+
