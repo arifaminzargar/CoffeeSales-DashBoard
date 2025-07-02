@@ -1,8 +1,6 @@
-## “Coffee Sales Dashboard (2019–2022)”
+### “Coffee Sales Dashboard (2019–2022)”
 
-Created an interactive Excel dashboard analyzing 45,134+ sales across 4 years, highlighting top 5 customers, 4 coffee types, 3 roast preferences, and 4 product sizes. Boosted business insights by segmenting $24K+ loyalty sales, $356 country-wise sales, and tracking annual trends with 100% dynamic slicers.
-
-#🚀 Just wrapped up an exciting Coffee Sales Dashboard project in Excel! ☕📊
+##🚀 Just wrapped up an exciting Coffee Sales Dashboard project in Excel! ☕📊
 
 Here’s how I turned raw sales data into actionable insights using data cleaning, enrichment, and visualization techniques:
 
